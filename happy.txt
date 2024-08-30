@@ -1,0 +1,25 @@
+<style type="text/css">@-webkit-keyframes jay8833{0%{visibility:visible;-webkit-transform:translateX(150%);transform:translateX(150%)}100%{-webkit-transform:translateX(0);transform:translateX(0)}}@keyframes jay8833{0%{visibility:visible;-webkit-transform:translateX(150%);transform:translateX(150%)}100%{-webkit-transform:translateX(0);transform:translateX(0)}}</style>
+
+<div id="jay8833" style="box-sizing:border-box;display:block;position:fixed;z-index:9999999999999;width:310px;height:110px;padding:5px;right:15px;top:15px;border-radius:10px;background-color:#fff;box-shadow:0 0 15px rgba(0,0,0,.3);-webkit-transition:375ms;-moz-transition:375ms;-o-transition:375ms;transition:375ms;-webkit-animation-name:jay8833;animation-name:jay8833;-webkit-animation-duration:1s;animation-duration:1s;-webkit-animation-fill-mode:both;animation-fill-mode:both;-webkit-animation-delay:2s;animation-delay:2s;">
+
+	<div style="display:block;position:relative;">		<div style="position:relative;width:300px;height:100px;margin:auto;">
+
+<!-- INIT AD CODE -->
+
+Paste Here You adcode 
+
+<!-- END AD CODE -->
+
+		</div>
+
+	<div style="position: absolute;right:0;bottom:0;width:20px;padding:3px;background:rgba(255,255,255,.95);z-index:2">
+
+		<a href="https://telegram.me/JayRaj8833" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/hgmDJhp/IMG-20221029-001620.jpg" style="display: block; width: 100% !important; height: auto" /></a>
+
+	</div>			
+
+	<span style="display:block;background:#fff;padding:3px 5px;margin:0;position:absolute;top:0;right:0;cursor:pointer;color:#666;font:bold 13px/10px Arial,Helvetica,sans-serif;" onclick="document.getElementById('jay8833').remove();">Close (x)</span>
+
+	</div>
+
+</div>`)
